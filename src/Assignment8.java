@@ -14,6 +14,7 @@ public class Assignment8
         int fire;
         
         System.out.println("Welcome to BattleShip!");
+//aaaa
         System.out.println("0 means unknown ocean, 1 means you shot there and missed,");
         System.out.println("2 is a ship, and 3 is a ship that's been hit.");
         System.out.println("The top left corner is 0 0, and the bottom right is 4 4");
